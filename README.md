@@ -76,7 +76,7 @@ Here are some of the projects I’ve built 👇
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0B5ED7?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2B2B2B?style=for-the-badge&logo=python&logoColor=white)
 
----
+
 
 #### 🛠️ Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -85,7 +85,7 @@ Here are some of the projects I’ve built 👇
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+
 
 #### 🗄️ Database & OS
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
